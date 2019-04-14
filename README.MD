@@ -48,4 +48,4 @@ Razvan Radoi
 ## Grafice:
 
 Toate graficele sunt atasate in arhiva, fiind disponibile si aici[0].
-
+https://docs.google.com/spreadsheets/d/1xGZ-OEh_86DZ8bXVxr54k5ONkI3sf3HCyWzu190mJVw/edit?usp=sharing
